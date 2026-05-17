@@ -240,7 +240,7 @@ AlgoSeries-Pro/
 
 | Name | Role |
 |------|------|
-| Developer | Algorithm design, GUI, architecture |
+| Raj Rakshit Sahoo | Algorithm design, GUI, architecture |
 
 ---
 
