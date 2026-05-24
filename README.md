@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-21-blue?logo=java)](https://openjdk.org/)
 [![Swing](https://img.shields.io/badge/GUI-Java%20Swing-orange)](https://docs.oracle.com/javase/tutorial/uiswing/)
-[![JFreeChart](https://img.shields.io/badge/Charts-JFreeChart-green)]trf tctvtvvtv(https://www.jfree.org/jfreechart/)
+[![JFreeChart](https://img.shields.io/badge/Charts-JFreeChart-green)](https://www.jfree.org/jfreechart/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Final%20Year%20Project-brightgreen)]()
 
