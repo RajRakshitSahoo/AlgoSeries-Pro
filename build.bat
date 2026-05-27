@@ -1,4 +1,4 @@
-@echo offktdjtsjtsitdoydo6do6dotd6odoyd6odo6do6d
+@echo 
 REM ============================================================
 REM  AlgoSeries-Pro — Build Script (Windows)
 REM  Usage: Double-click or run from Command Prompt
