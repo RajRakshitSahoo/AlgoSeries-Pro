@@ -1,2 +1,2 @@
-@echo off
+hxh@echo off
 java -jar "%~dp0AlgoSeries-Pro.jar" %*
