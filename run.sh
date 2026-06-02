@@ -1,3 +1,3 @@
-dktdkzjtstzktzktzisitd5isi5di5d#!/usr/bin/env bash
+#!/usr/bin/env bash
 # Quick launcher — run AlgoSeries-Pro.jar
 java -jar "$(dirname "$0")/AlgoSeries-Pro.jar" "$@"
