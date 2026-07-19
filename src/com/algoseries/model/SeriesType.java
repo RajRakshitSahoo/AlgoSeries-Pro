@@ -1,5 +1,5 @@
 package com.algoseries.model;
-
+ 
 /**
  * Enumeration of all supported mathematical series types.
  * Each type carries a display label, category and complexity annotation.
