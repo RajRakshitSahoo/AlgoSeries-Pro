@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash 
 # ============================================================
 #  AlgoSeries-Pro — Build Script (Linux / macOS)
 #  Usage: chmod +x build.sh && ./build.sh
