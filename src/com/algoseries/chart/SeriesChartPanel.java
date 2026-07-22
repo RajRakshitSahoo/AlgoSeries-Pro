@@ -2,7 +2,7 @@ package com.algoseries.chart;
 
 import com.algoseries.model.SeriesResult;
 import com.algoseries.ui.ThemeManager;
-
+ 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
