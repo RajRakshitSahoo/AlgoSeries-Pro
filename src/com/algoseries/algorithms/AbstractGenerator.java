@@ -6,3 +6,4 @@ public abstract class AbstractGenerator implements SeriesGenerator {
         return Math.max(0,rt.totalMemory()-rt.freeMemory()-before);
     }
 }
+ 
