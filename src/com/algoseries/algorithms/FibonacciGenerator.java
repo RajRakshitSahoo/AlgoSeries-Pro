@@ -19,3 +19,4 @@ public class FibonacciGenerator extends AbstractGenerator {
         double v=fib(n-1,m)+fib(n-2,m); m.put(n,v); return v;
     }
 }
+ 
