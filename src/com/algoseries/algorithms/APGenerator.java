@@ -17,3 +17,4 @@ public class APGenerator extends AbstractGenerator {
     }
     private void buildAP(List<Double> l,double a,double d,int i,int n){if(i>=n)return;l.add(a+i*d);buildAP(l,a,d,i+1,n);}
 }
+ 
